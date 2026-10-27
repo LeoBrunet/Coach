@@ -11,7 +11,7 @@ The app doesn't have its own chat. It reads your workouts, sleep and heart rate 
   <img src="docs/progress.png" width="24%" alt="Progress">
 </p>
 
-The UI is in French and English (it follows the iPhone's language). The screens were designed in [UI Studio](https://github.com/LeoBrunet/UIStudio).
+The UI is in French and English (it follows the iPhone's language). The screens were designed in [UI Studio](https://github.com/LeoBrunet/UIStudio). With [Popote](https://github.com/LeoBrunet/Popote) on the same iPhone, Coach shares its plan so each day's calorie and carb targets follow your sessions.
 
 ## How it works
 
