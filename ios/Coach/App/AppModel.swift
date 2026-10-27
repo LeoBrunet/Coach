@@ -24,7 +24,10 @@ final class AppModel {
 
     // MARK: Data
 
-    var state: ServerState?
+    var state: ServerState? {
+        // Popote reads the plan to set daily calorie and carb targets.
+        didSet { if let state { PlanShare.write(sessions: state.sessions, goal: state.profile.goal) } }
+    }
     var workouts: [WorkoutSummary] = []
     var metrics: [DailyMetrics] = []
     var connectorURL: String?
