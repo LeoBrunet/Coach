@@ -133,7 +133,7 @@ enum Insights {
         return estimates.min()
     }
 
-    /// "1 h 45" / "1:45:00" / "45:00" → seconds.
+    /// "1 h 45" / "1h45" / "1:45:00" / "1:45" / "45:00" → seconds.
     static func parseTime(_ text: String?) -> TimeInterval? {
         guard let text = text?.lowercased().replacingOccurrences(of: " ", with: "") else { return nil }
         if let m = text.firstMatch(of: #/^(\d+)h(\d{1,2})?$/#) {
@@ -141,7 +141,8 @@ enum Insights {
         }
         let parts = text.split(separator: ":").compactMap { Int($0) }
         if parts.count == 3 { return Double(parts[0] * 3600 + parts[1] * 60 + parts[2]) }
-        if parts.count == 2 { return Double(parts[0] * 60 + parts[1]) }
+        // "1:45" is hours:minutes (a race goal), "45:30" is minutes:seconds.
+        if parts.count == 2 { return parts[0] < 10 ? Double(parts[0] * 3600 + parts[1] * 60) : Double(parts[0] * 60 + parts[1]) }
         return nil
     }
 

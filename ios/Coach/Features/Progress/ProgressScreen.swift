@@ -61,7 +61,7 @@ struct ProgressScreen: View {
                 if let projected {
                     HStack(alignment: .firstTextBaseline, spacing: DS.Spacing.xs) {
                         Text(Insights.formatRaceTime(projected)).font(.system(size: 34, weight: .heavy, design: .rounded))
-                        Text("estimé\(goal.targetTime.map { " · objectif \($0)" } ?? "")").font(.dsCallout).foregroundStyle(.dsTextSecondary)
+                        Text(goal.targetTime.map { String(localized: "estimé · objectif \($0)") } ?? String(localized: "estimé")).font(.dsCallout).foregroundStyle(.dsTextSecondary)
                     }
                     if let target {
                         let gap = projected - target

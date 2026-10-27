@@ -2581,12 +2581,22 @@
         }
       }
     },
-    "estimé%@": {
+    "estimé": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "estimated%@"
+            "value": "estimated"
+          }
+        }
+      }
+    },
+    "estimé · objectif %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "estimated · goal %@"
           }
         }
       }
