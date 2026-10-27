@@ -1,0 +1,11 @@
+name = "coach-server"
+main = "src/worker.ts"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "coach"
+database_id = "5b475dc2-84be-4804-b053-e263f88e7ed9"
+workers_dev = true
+preview_urls = false

@@ -1,0 +1,60 @@
+{
+  "sourceLanguage": "fr",
+  "strings": {
+    "CFBundleDisplayName": {
+      "comment": "",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach"
+          }
+        }
+      }
+    },
+    "NSHealthShareUsageDescription": {
+      "comment": "",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach reads your workouts, heart rate, sleep and HRV so your coach can adapt your plan."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach lit tes séances, ta fréquence cardiaque, ton sommeil et ta VFC pour que ton coach adapte ton programme."
+          }
+        }
+      }
+    },
+    "NSHealthUpdateUsageDescription": {
+      "comment": "",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Only used in development mode to generate demo data."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisé uniquement en mode développement pour générer des données de démonstration."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

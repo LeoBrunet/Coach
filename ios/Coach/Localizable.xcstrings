@@ -1,0 +1,2736 @@
+{
+  "sourceLanguage": "fr",
+  "strings": {
+    " Faut-il adapter ma séance « %@ » (id %@) ?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " Should I adjust my session “%@” (id %@)?"
+          }
+        }
+      }
+    },
+    " Qu'en penses-tu ?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " What do you think?"
+          }
+        }
+      }
+    },
+    "%@ / sem.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ / wk"
+          }
+        }
+      }
+    },
+    "%@ libre": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free %@"
+          }
+        }
+      }
+    },
+    "%@ · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · %@"
+          }
+        }
+      }
+    },
+    "%@ · %@ · Apple Watch": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ · %@ · Apple Watch"
+          }
+        }
+      }
+    },
+    "%@%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@%@"
+          }
+        }
+      }
+    },
+    "%@%@ sur la période": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@%@ over the period"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
+          }
+        }
+      }
+    },
+    "%lld h": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld h"
+          }
+        }
+      }
+    },
+    "%lld min": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld min"
+          }
+        }
+      }
+    },
+    "%lld séances · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld workouts · %@"
+          }
+        }
+      }
+    },
+    "%lld séances · synchro %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld workouts · synced %@"
+          }
+        }
+      }
+    },
+    "%lld'": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld'"
+          }
+        }
+      }
+    },
+    "/100": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "/100"
+          }
+        }
+      }
+    },
+    "10 km (meilleure allure)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "10K (best pace)"
+          }
+        }
+      }
+    },
+    "12 sem.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "12 wk"
+          }
+        }
+      }
+    },
+    "4 sem.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "4 wk"
+          }
+        }
+      }
+    },
+    "Accès refusé (Réglages › Confidentialité)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Access denied (Settings › Privacy)"
+          }
+        }
+      }
+    },
+    "Affichage": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View"
+          }
+        }
+      }
+    },
+    "Ajoute le connecteur dans Claude": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add the connector in Claude"
+          }
+        }
+      }
+    },
+    "Allure": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pace"
+          }
+        }
+      }
+    },
+    "Allure cible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Target pace"
+          }
+        }
+      }
+    },
+    "Allure la plus rapide (5 km+)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fastest pace (5K+)"
+          }
+        }
+      }
+    },
+    "Allure moy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avg pace"
+          }
+        }
+      }
+    },
+    "Analyse du coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach's analysis"
+          }
+        }
+      }
+    },
+    "Analyser mes progrès avec le coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Review my progress with the coach"
+          }
+        }
+      }
+    },
+    "Annuler": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "Année": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Year"
+          }
+        }
+      }
+    },
+    "Appareil non enregistré auprès du serveur.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This device isn't registered with the server."
+          }
+        }
+      }
+    },
+    "Apple Santé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Health"
+          }
+        }
+      }
+    },
+    "Apple Santé autorisé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Health connected"
+          }
+        }
+      }
+    },
+    "Apple Watch": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Watch"
+          }
+        }
+      }
+    },
+    "Appliquer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apply"
+          }
+        }
+      }
+    },
+    "Athlète": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Athlete"
+          }
+        }
+      }
+    },
+    "Aucun": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None"
+          }
+        }
+      }
+    },
+    "Aucune séance cette semaine": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No sessions this week"
+          }
+        }
+      }
+    },
+    "Aucune séance prévue": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No sessions planned"
+          }
+        }
+      }
+    },
+    "Aucune séance prévue ce jour-là. Récupère bien !": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing planned that day. Rest up!"
+          }
+        }
+      }
+    },
+    "Aujourd'hui": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        }
+      }
+    },
+    "Autorisation demandée au premier envoi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permission is asked the first time you send a session"
+          }
+        }
+      }
+    },
+    "Autorise Apple Santé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow Apple Health"
+          }
+        }
+      }
+    },
+    "Autorise Apple Santé pour suivre tes progrès.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow Apple Health to track your progress."
+          }
+        }
+      }
+    },
+    "Autorise Apple Santé pour suivre ton sommeil, ta VFC et ta FC au repos.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow Apple Health to track your sleep, HRV and resting heart rate."
+          }
+        }
+      }
+    },
+    "Autoriser": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow"
+          }
+        }
+      }
+    },
+    "Autoriser l'accès": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow access"
+          }
+        }
+      }
+    },
+    "Base": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Base"
+          }
+        }
+      }
+    },
+    "Bilan": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Summary"
+          }
+        }
+      }
+    },
+    "Blessures, douleurs…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Injuries, pain…"
+          }
+        }
+      }
+    },
+    "Bonjour coach ! Je viens de connecter mon app Coach. Commence par get_athlete_overview, pose-moi les questions dont tu as besoin (objectif, disponibilités, blessures), puis construis mon programme avec upsert_sessions.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hi coach! I just connected my Coach app. Start with get_athlete_overview, ask me what you need to know (goal, availability, injuries), then build my plan with upsert_sessions."
+          }
+        }
+      }
+    },
+    "Calories": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calories"
+          }
+        }
+      }
+    },
+    "Cette semaine": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This week"
+          }
+        }
+      }
+    },
+    "Cette séance n'a pas encore d'étapes détaillées. Demande au coach de la préciser.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This session has no detailed steps yet. Ask your coach to fill them in."
+          }
+        }
+      }
+    },
+    "Changer de serveur crée un nouveau compte et un nouveau connecteur.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changing the server creates a new account and a new connector."
+          }
+        }
+      }
+    },
+    "Charge": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Load"
+          }
+        }
+      }
+    },
+    "Charge %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ load"
+          }
+        }
+      }
+    },
+    "Cible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Target"
+          }
+        }
+      }
+    },
+    "Cible %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Target %@"
+          }
+        }
+      }
+    },
+    "Claude": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude"
+          }
+        }
+      }
+    },
+    "Claude est connecté": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude is connected"
+          }
+        }
+      }
+    },
+    "Coach n'a pas encore le droit d'envoyer des séances sur ta montre. Sur ton iPhone, ouvre l'app Watch › Exercice et autorise Coach, puis réessaie.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach isn't allowed to send sessions to your watch yet. On your iPhone, open the Watch app › Workout and allow Coach, then try again."
+          }
+        }
+      }
+    },
+    "Coach, analyse mes progrès des dernières semaines (volume, VO2max, records) et dis-moi où j'en suis par rapport à mon objectif.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, review my progress over the last few weeks (volume, VO2 max, records) and tell me where I stand against my goal."
+          }
+        }
+      }
+    },
+    "Coach, débriefe ma séance « %@ » : regarde get_workout avec l'id %@, puis écris l'analyse avec write_workout_analysis.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, debrief my session “%@”: look at get_workout with id %@, then write the analysis with write_workout_analysis."
+          }
+        }
+      }
+    },
+    "Coach, fais-moi le point du jour (sommeil, VFC, séance prévue) et écris-le avec set_daily_note.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, give me today's check-in (sleep, HRV, planned session) and write it with set_daily_note."
+          }
+        }
+      }
+    },
+    "Coach, j'ai une question avant ma séance du jour : ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, a question before today's session: "
+          }
+        }
+      }
+    },
+    "Coach, j'aimerais ajuster mon programme : ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, I'd like to adjust my plan: "
+          }
+        }
+      }
+    },
+    "Coach, je me sens %@ (%lld/5) aujourd'hui.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, I feel %@ (%lld/5) today."
+          }
+        }
+      }
+    },
+    "Coach, je voudrais mettre à jour mon profil (objectif, disponibilités, blessures) : ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, I'd like to update my profile (goal, availability, injuries): "
+          }
+        }
+      }
+    },
+    "Coach, peux-tu détailler les étapes de ma séance « %@ » (id %@) ?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, can you break down the steps of my session “%@” (id %@)?"
+          }
+        }
+      }
+    },
+    "Coach, une question avant ma séance « %@ » (%@, id %@) : ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach, a question before my session “%@” (%@, id %@): "
+          }
+        }
+      }
+    },
+    "Connecte ton coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect your coach"
+          }
+        }
+      }
+    },
+    "Connecter": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect"
+          }
+        }
+      }
+    },
+    "Connecteur Claude": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Claude connector"
+          }
+        }
+      }
+    },
+    "Connecteur actif · dernière lecture %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connector active · last read %@"
+          }
+        }
+      }
+    },
+    "Connexion au serveur…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connecting to the server…"
+          }
+        }
+      }
+    },
+    "Connexions": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connections"
+          }
+        }
+      }
+    },
+    "Continuer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "Copier l'adresse": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy address"
+          }
+        }
+      }
+    },
+    "Course": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run"
+          }
+        }
+      }
+    },
+    "Dans Claude : Paramètres › Connecteurs › Ajouter un connecteur personnalisé, puis colle cette adresse.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In Claude: Settings › Connectors › Add custom connector, then paste this address."
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
+          }
+        }
+      }
+    },
+    "Date de l'épreuve": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Race date"
+          }
+        }
+      }
+    },
+    "Demander le détail": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ask for the details"
+          }
+        }
+      }
+    },
+    "Demander le point du jour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ask for today's check-in"
+          }
+        }
+      }
+    },
+    "Demander un programme": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ask for a plan"
+          }
+        }
+      }
+    },
+    "Demander un programme au coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ask the coach for a plan"
+          }
+        }
+      }
+    },
+    "Dernière synchro": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last sync"
+          }
+        }
+      }
+    },
+    "Difficile": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hard"
+          }
+        }
+      }
+    },
+    "Dis bonjour à ton coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Say hi to your coach"
+          }
+        }
+      }
+    },
+    "Dis à ton coach ce que tu prépares (course, distance, date).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tell your coach what you're training for (race, distance, date)."
+          }
+        }
+      }
+    },
+    "Disponibilités": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Availability"
+          }
+        }
+      }
+    },
+    "Distance": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Distance"
+          }
+        }
+      }
+    },
+    "Données": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data"
+          }
+        }
+      }
+    },
+    "Données de démo : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demo data: %@"
+          }
+        }
+      }
+    },
+    "Durée": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duration"
+          }
+        }
+      }
+    },
+    "Durée %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duration %@"
+          }
+        }
+      }
+    },
+    "Débriefer avec le coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Debrief with the coach"
+          }
+        }
+      }
+    },
+    "Dénivelé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elevation"
+          }
+        }
+      }
+    },
+    "Départ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start"
+          }
+        }
+      }
+    },
+    "Développement": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Development"
+          }
+        }
+      }
+    },
+    "Effort ressenti": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perceived effort"
+          }
+        }
+      }
+    },
+    "Elle a peut-être été modifiée par le coach.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach may have changed it."
+          }
+        }
+      }
+    },
+    "En attente de la première connexion de Claude…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waiting for Claude to connect…"
+          }
+        }
+      }
+    },
+    "En bonne voie": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On track"
+          }
+        }
+      }
+    },
+    "Encore ~%lld min à gagner": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "~%lld min still to gain"
+          }
+        }
+      }
+    },
+    "Endurance": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Endurance"
+          }
+        }
+      }
+    },
+    "Enregistrer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "Envoi des séances indisponible sur cet appareil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sending sessions isn't available on this device"
+          }
+        }
+      }
+    },
+    "Envoi impossible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't send"
+          }
+        }
+      }
+    },
+    "Envoyer sur l'Apple Watch": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send to Apple Watch"
+          }
+        }
+      }
+    },
+    "Erreur serveur (%lld) : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server error (%lld): %@"
+          }
+        }
+      }
+    },
+    "Ex. 5 séances / sem., sortie longue le dimanche": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E.g. 5 sessions / week, long run on Sunday"
+          }
+        }
+      }
+    },
+    "Ex. Semi-marathon de Paris": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E.g. Paris Half Marathon"
+          }
+        }
+      }
+    },
+    "FC %lld–%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HR %lld–%lld"
+          }
+        }
+      }
+    },
+    "FC cible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Target HR"
+          }
+        }
+      }
+    },
+    "FC max": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max HR"
+          }
+        }
+      }
+    },
+    "FC max %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max HR %lld"
+          }
+        }
+      }
+    },
+    "FC max (bpm)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max HR (bpm)"
+          }
+        }
+      }
+    },
+    "FC moy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avg HR"
+          }
+        }
+      }
+    },
+    "FC moy. %lld bpm": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avg HR %lld bpm"
+          }
+        }
+      }
+    },
+    "Facile": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Easy"
+          }
+        }
+      }
+    },
+    "Faible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Low"
+          }
+        }
+      }
+    },
+    "Fait": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "Fixer un objectif": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set a goal"
+          }
+        }
+      }
+    },
+    "Forme": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fitness"
+          }
+        }
+      }
+    },
+    "Forme : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Readiness: %@"
+          }
+        }
+      }
+    },
+    "Fréquence cardiaque": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heart rate"
+          }
+        }
+      }
+    },
+    "Générer des données de démo (Apple Santé)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Generate demo data (Apple Health)"
+          }
+        }
+      }
+    },
+    "Heures": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hours"
+          }
+        }
+      }
+    },
+    "Historique": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "History"
+          }
+        }
+      }
+    },
+    "Il peut lire tes %lld séances": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It can read your %lld workouts"
+          }
+        }
+      }
+    },
+    "Il peut lire tes données dès maintenant": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It can read your data now"
+          }
+        }
+      }
+    },
+    "Il te posera quelques questions pour bâtir ton programme.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It will ask you a few questions to build your plan."
+          }
+        }
+      }
+    },
+    "Jour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Day"
+          }
+        }
+      }
+    },
+    "L'app Exercice de l'Apple Watch ne gère pas encore les séances structurées de %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Apple Watch Workout app doesn't support structured %@ sessions yet."
+          }
+        }
+      }
+    },
+    "Laisse vide pour utiliser la FC max observée sur tes séances (%lld bpm).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave empty to use the max HR seen in your workouts (%lld bpm)."
+          }
+        }
+      }
+    },
+    "Le coach adapte ton programme à ces informations.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach tailors your plan to this."
+          }
+        }
+      }
+    },
+    "Le coach n'a pas détaillé les étapes de cette séance.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach hasn't broken this session into steps."
+          }
+        }
+      }
+    },
+    "Le mot du coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coach's note"
+          }
+        }
+      }
+    },
+    "Les séances peuvent être envoyées sur ta montre": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sessions can be sent to your watch"
+          }
+        }
+      }
+    },
+    "Libre": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free"
+          }
+        }
+      }
+    },
+    "Maximal": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Max"
+          }
+        }
+      }
+    },
+    "Mettre à jour avec le coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Update with the coach"
+          }
+        }
+      }
+    },
+    "Modifier": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        }
+      }
+    },
+    "Modifier avec le coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change with the coach"
+          }
+        }
+      }
+    },
+    "Modéré": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moderate"
+          }
+        }
+      }
+    },
+    "Modérée": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moderate"
+          }
+        }
+      }
+    },
+    "Moi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Me"
+          }
+        }
+      }
+    },
+    "Mon profil sportif": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My training profile"
+          }
+        }
+      }
+    },
+    "Natation": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Swim"
+          }
+        }
+      }
+    },
+    "Non autorisé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not allowed"
+          }
+        }
+      }
+    },
+    "Non renseignées": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not set"
+          }
+        }
+      }
+    },
+    "Nouveau": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Objectif": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goal"
+          }
+        }
+      }
+    },
+    "Objectif : %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goal: %@"
+          }
+        }
+      }
+    },
+    "Objectif à portée : %lld min d'avance": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goal within reach: %lld min ahead"
+          }
+        }
+      }
+    },
+    "Ouvrir Claude": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Claude"
+          }
+        }
+      }
+    },
+    "Partager": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share"
+          }
+        }
+      }
+    },
+    "Pas encore connecté": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not connected yet"
+          }
+        }
+      }
+    },
+    "Pas encore d'analyse. Demande au coach de débriefer cette séance : elle apparaîtra ici.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No analysis yet. Ask your coach to debrief this session and it will show up here."
+          }
+        }
+      }
+    },
+    "Pas encore d'objectif": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No goal yet"
+          }
+        }
+      }
+    },
+    "Pas encore de données": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No data yet"
+          }
+        }
+      }
+    },
+    "Pas encore de programme": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No plan yet"
+          }
+        }
+      }
+    },
+    "Pas encore défini": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not set yet"
+          }
+        }
+      }
+    },
+    "Planifier avec le coach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan with the coach"
+          }
+        }
+      }
+    },
+    "Plus longue nage": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Longest swim"
+          }
+        }
+      }
+    },
+    "Plus longue sortie": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Longest session"
+          }
+        }
+      }
+    },
+    "Plus tard": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Later"
+          }
+        }
+      }
+    },
+    "Points d'attention": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Things to watch"
+          }
+        }
+      }
+    },
+    "Pourquoi cette séance": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Why this session"
+          }
+        }
+      }
+    },
+    "Privilégie une séance facile ou le repos.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go easy or take a rest day."
+          }
+        }
+      }
+    },
+    "Profil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profile"
+          }
+        }
+      }
+    },
+    "Programme": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan"
+          }
+        }
+      }
+    },
+    "Programme créé par Claude · mis à jour %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plan built by Claude · updated %@"
+          }
+        }
+      }
+    },
+    "Progrès": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Progress"
+          }
+        }
+      }
+    },
+    "Projection à partir de ta meilleure course récente (formule de Riegel).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Projected from your best recent run (Riegel formula)."
+          }
+        }
+      }
+    },
+    "Prénom": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "First name"
+          }
+        }
+      }
+    },
+    "Période": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Period"
+          }
+        }
+      }
+    },
+    "Records": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Records"
+          }
+        }
+      }
+    },
+    "Records & historique": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Records & history"
+          }
+        }
+      }
+    },
+    "Renfo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Strength"
+          }
+        }
+      }
+    },
+    "Repos": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rest"
+          }
+        }
+      }
+    },
+    "Revenir à aujourd'hui": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to today"
+          }
+        }
+      }
+    },
+    "Revoir l'écran de connexion": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show the connection screen again"
+          }
+        }
+      }
+    },
+    "Réalisé vs prévu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actual vs planned"
+          }
+        }
+      }
+    },
+    "Récup": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recovery"
+          }
+        }
+      }
+    },
+    "Récupération": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recovery"
+          }
+        }
+      }
+    },
+    "Rédigé par Claude · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Written by Claude · %@"
+          }
+        }
+      }
+    },
+    "Réessayer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        }
+      }
+    },
+    "Réglages": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "Réinitialiser": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset"
+          }
+        }
+      }
+    },
+    "Réinitialiser ?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset?"
+          }
+        }
+      }
+    },
+    "Réinitialiser le compte": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset account"
+          }
+        }
+      }
+    },
+    "Répétition": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rep"
+          }
+        }
+      }
+    },
+    "S'ouvre dans l'app Claude": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opens in the Claude app"
+          }
+        }
+      }
+    },
+    "Semaine": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week"
+          }
+        }
+      }
+    },
+    "Semaine %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week %lld"
+          }
+        }
+      }
+    },
+    "Semaine %lld sur %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week %lld of %lld"
+          }
+        }
+      }
+    },
+    "Semaine du %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week of %@"
+          }
+        }
+      }
+    },
+    "Semaine précédente": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Previous week"
+          }
+        }
+      }
+    },
+    "Semaine suivante": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Next week"
+          }
+        }
+      }
+    },
+    "Serveur": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server"
+          }
+        }
+      }
+    },
+    "Seuil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Threshold"
+          }
+        }
+      }
+    },
+    "Soutenu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hard-ish"
+          }
+        }
+      }
+    },
+    "Sport": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sport"
+          }
+        }
+      }
+    },
+    "Sports": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sports"
+          }
+        }
+      }
+    },
+    "Synchronisation impossible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't sync"
+          }
+        }
+      }
+    },
+    "Synchronise Apple Santé depuis l'onglet Aujourd'hui.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sync Apple Health from the Today tab."
+          }
+        }
+      }
+    },
+    "Synchroniser maintenant": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sync now"
+          }
+        }
+      }
+    },
+    "Séance": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session"
+          }
+        }
+      }
+    },
+    "Séance envoyée": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session sent"
+          }
+        }
+      }
+    },
+    "Séance introuvable": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session not found"
+          }
+        }
+      }
+    },
+    "Séance libre": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Free session"
+          }
+        }
+      }
+    },
+    "Séance possible, écoute tes sensations.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Good to train, listen to your body."
+          }
+        }
+      }
+    },
+    "Séance terminée": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Session complete"
+          }
+        }
+      }
+    },
+    "Séances Apple Santé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Health workouts"
+          }
+        }
+      }
+    },
+    "Séances, fréquence cardiaque, sommeil, VFC": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Workouts, heart rate, sleep, HRV"
+          }
+        }
+      }
+    },
+    "Tempo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tempo"
+          }
+        }
+      }
+    },
+    "Temps en zones": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time in zones"
+          }
+        }
+      }
+    },
+    "Temps visé (ex. 1 h 45)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Target time (e.g. 1:45)"
+          }
+        }
+      }
+    },
+    "Terminé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "Tes séances Apple Watch apparaîtront ici après ta première séance.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your Apple Watch workouts will show up here after your first one."
+          }
+        }
+      }
+    },
+    "Toi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You"
+          }
+        }
+      }
+    },
+    "Ton Apple Watch estime ta VO2max lors de tes sorties en extérieur. Elle apparaîtra ici.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your Apple Watch estimates your VO2 max during outdoor workouts. It will show up here."
+          }
+        }
+      }
+    },
+    "Ton coach construit ton programme dans Claude à partir de tes données et de ton objectif.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach builds your plan in Claude from your data and your goal."
+          }
+        }
+      }
+    },
+    "Ton coach n'a pas encore construit ton programme.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach hasn't built your plan yet."
+          }
+        }
+      }
+    },
+    "Ton coach n'a pas encore écrit aujourd'hui.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach hasn't written anything today."
+          }
+        }
+      }
+    },
+    "Ton coach n'a rien prévu pour cette semaine.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach hasn't planned anything this week."
+          }
+        }
+      }
+    },
+    "Ton coach, c'est Claude. Il lit tes données Santé et ton programme, et tu lui parles directement dans l'app Claude.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your coach is Claude. It reads your Health data and your plan, and you talk to it right in the Claude app."
+          }
+        }
+      }
+    },
+    "Touche pour noter": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap to rate"
+          }
+        }
+      }
+    },
+    "Tout le plan": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full plan"
+          }
+        }
+      }
+    },
+    "Tout voir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "See all"
+          }
+        }
+      }
+    },
+    "Très difficile": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Very hard"
+          }
+        }
+      }
+    },
+    "Très facile": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Very easy"
+          }
+        }
+      }
+    },
+    "Tu peux pousser aujourd'hui.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can push today."
+          }
+        }
+      }
+    },
+    "URL du serveur": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server URL"
+          }
+        }
+      }
+    },
+    "Un nouveau compte et un nouveau connecteur seront créés. Il faudra reconnecter Claude.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A new account and connector will be created. You'll need to reconnect Claude."
+          }
+        }
+      }
+    },
+    "Une question avant de partir ?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A question before you head out?"
+          }
+        }
+      }
+    },
+    "VFC %@%lld %% vs ta moyenne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HRV %@%lld%% vs your average"
+          }
+        }
+      }
+    },
+    "VMA": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VO2 max pace"
+          }
+        }
+      }
+    },
+    "VO2max": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VO2 max"
+          }
+        }
+      }
+    },
+    "VO2max · ml/kg/min": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VO2 max · ml/kg/min"
+          }
+        }
+      }
+    },
+    "Vitesse": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speed"
+          }
+        }
+      }
+    },
+    "Vitesse moy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avg speed"
+          }
+        }
+      }
+    },
+    "Voir la séance": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View session"
+          }
+        }
+      }
+    },
+    "Voir le bilan": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View summary"
+          }
+        }
+      }
+    },
+    "Volume d'entraînement": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Training volume"
+          }
+        }
+      }
+    },
+    "Vélo": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bike"
+          }
+        }
+      }
+    },
+    "Z%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Z%lld"
+          }
+        }
+      }
+    },
+    "Zone": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zone"
+          }
+        }
+      }
+    },
+    "Zones cardiaques": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Heart rate zones"
+          }
+        }
+      }
+    },
+    "au top": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "great"
+          }
+        }
+      }
+    },
+    "bien": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "good"
+          }
+        }
+      }
+    },
+    "bonne": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "good"
+          }
+        }
+      }
+    },
+    "ce mois": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "this month"
+          }
+        }
+      }
+    },
+    "correct": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "okay"
+          }
+        }
+      }
+    },
+    "correcte": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fair"
+          }
+        }
+      }
+    },
+    "estimé%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "estimated%@"
+          }
+        }
+      }
+    },
+    "faible": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "low"
+          }
+        }
+      }
+    },
+    "fatigué": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "tired"
+          }
+        }
+      }
+    },
+    "jours restants": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "days left"
+          }
+        }
+      }
+    },
+    "mon objectif est ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "my goal is "
+          }
+        }
+      }
+    },
+    "planifie la semaine du %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "plan the week of %@."
+          }
+        }
+      }
+    },
+    "récup %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "recovery %@"
+          }
+        }
+      }
+    },
+    "semaines d'affilée": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weeks in a row"
+          }
+        }
+      }
+    },
+    "sommeil %lld h %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sleep %lld h %@"
+          }
+        }
+      }
+    },
+    "« %@ » est programmée sur ta montre (%@). Ouvre l'app Exercice sur l'Apple Watch pour la lancer.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@” is scheduled on your watch (%@). Open the Workout app on your Apple Watch to start it."
+          }
+        }
+      }
+    },
+    "· cette semaine": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "· this week"
+          }
+        }
+      }
+    },
+    "À ajouter dans Claude : Paramètres › Connecteurs › Ajouter un connecteur personnalisé. Garde cette adresse secrète : elle donne accès à tes données.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add it in Claude: Settings › Connectors › Add custom connector. Keep this address secret: it gives access to your data."
+          }
+        }
+      }
+    },
+    "À travailler": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Needs work"
+          }
+        }
+      }
+    },
+    "Élevée": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "High"
+          }
+        }
+      }
+    },
+    "épuisé": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "exhausted"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
