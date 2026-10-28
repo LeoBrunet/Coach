@@ -197,6 +197,9 @@ struct WeekStrip: View {
                             Group {
                                 if done {
                                     Image(systemName: "checkmark.circle.fill").foregroundStyle(.green)
+                                } else if Set(sessions.map(\.sport)).count > 1 {
+                                    // Several sports that day (e.g. run + strength).
+                                    Image(systemName: "figure.mixed.cardio").foregroundStyle(.dsAccent)
                                 } else if let sport = sessions.first?.sport {
                                     Image(systemName: sport.icon).foregroundStyle(sport.color)
                                 } else {
