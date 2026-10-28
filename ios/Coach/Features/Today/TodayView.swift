@@ -44,7 +44,7 @@ struct TodayView: View {
         let unplanned = model.workouts(on: selectedDay).filter { w in !sessions.contains { $0.workoutId == w.id } }
         if let session = sessions.first {
             HeroSessionCard(session: session)
-            ForEach(sessions.dropFirst()) { CompactSessionRow(session: $0) }
+            ForEach(sessions.dropFirst()) { HeroSessionCard(session: $0) }
         } else if !unplanned.isEmpty {
             // Nothing planned, but a workout was done that day: just show it below.
             EmptyView()
@@ -297,28 +297,5 @@ struct HeroSessionCard: View {
             Text(value).font(.dsHeadline)
         }
         .frame(maxWidth: .infinity, alignment: .leading)
-    }
-}
-
-struct CompactSessionRow: View {
-    let session: Session
-
-    var body: some View {
-        NavigationLink(value: session.isDone && session.workoutId != nil ? Route.workout(session.workoutId!) : Route.session(session.id)) {
-            HStack(spacing: DS.Spacing.s) {
-                RoundedRectangle(cornerRadius: 3).fill(session.sport.color).frame(width: 5)
-                VStack(alignment: .leading, spacing: 4) {
-                    Text(session.sport.label.uppercased()).font(.dsCaption).foregroundStyle(session.sport.color)
-                    Text(session.title).font(.dsHeadline)
-                    Text(Fmt.duration(minutes: session.durationMin)).font(.dsCallout).foregroundStyle(.dsTextSecondary)
-                }
-                Spacer()
-                Image(systemName: session.isDone ? "checkmark.circle.fill" : "chevron.right")
-                    .foregroundStyle(session.isDone ? .green : .dsTextSecondary)
-            }
-            .frame(height: 64)
-            .dsCard(padding: DS.Spacing.s)
-        }
-        .buttonStyle(.plain)
     }
 }
